@@ -1,0 +1,12 @@
+{
+    "baseUrl": "http://localhost:4200",
+    "integrationFolder": "./integration",
+    "pluginsFile": "./plugins/index.js",
+    "supportFile": "./support/index.js",
+    "videosFolder": "./videos",
+    "fixturesFolder": "./fixtures",
+    "screenshotsFolder": "./screenshots",
+    "video": false,
+    "viewportWidth": 1400,
+    "viewportHeight": 900
+}
